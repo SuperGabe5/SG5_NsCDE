@@ -8,3 +8,5 @@
 4. Add GTK4 theming support 
 
 5. Fork libadwaita (again) to force those stubborn GTK 4 apps to use the correct appearance
+
+6. Add some form of dark mode support
